@@ -1,4 +1,6 @@
 # Version_Guide
+
+Please find the detailed version guide [here](https://docs.google.com/spreadsheets/d/1-9Jd0SoJ1U_tbI-kt4YGYYeoBChFytBcoqHol2XXlcE/edit?usp=sharing)
 Guide to features and functions planned for current and future versions.
 
 This readme describes the general plan for versions of the ermmi(TM) robotic system in versions of a prototype, each successive version building on the previous ones.
