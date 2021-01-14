@@ -13,6 +13,9 @@ Version 1 was a very elementary prototype started in early 2020 using a crude pl
 ### Version 2
 
 Version 2 was started at the end of 2020 with a goal of concentrating on the software rather than the mechanical aspects of a completely custom platform.  Therefore the majority of effort is on software with plans to use a commercially available robot platform.  Specific functions are row-wise navigation, crop row detection, weed detection, and target detection methods of navigation. The presumption is that the off-the-shelf robot will include manual navigation and certain other functions.  The steering for version 2 is differential steering.  The dimensions of the AGV are somewhat irrelevant since the focus is on navigation.
+Version 2.1 - due March 1, 2021
+Version 2.2 - due April 1, 2021
+Version 2.3 - due May 1, 2021
 
 ### Version 3
 
